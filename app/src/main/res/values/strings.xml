@@ -1,0 +1,23 @@
+<resources>
+  <string name="app_name">Stock Hawk</string>
+
+  <string name="action_example">Example action</string>
+
+  <string name="action_settings" translatable="false">Settings</string>
+  <string name="action_change_units">Change Units</string>
+  <string name="symbol_search">Symbol Search</string>
+  <string name="content_test">Search for a Stock Symbol</string>
+  <string name="input_hint">FB</string>
+  <string name="input_prefill"></string>
+  <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+  <string name="emptyString">No stock information available</string>
+  <string name="doesNotExist">Stock does not exist</string>
+  <string name="no_network">No stock information available.\nThe network is not available to fetch stocks data.</string>
+  <string name="errorBackend">Error connecting backend</string>
+  <string name="content_empty">The stocks view is empty</string>
+  <string name="widget_my_stocks">My Stocks</string>
+  <string name="add_widget">Add widget</string>
+  <string name="line_set_no_data">No change in values</string>
+  <string name="stock_already_saved">This stock is already saved!</string>
+  <string name="add_new_stock">This floating button adds a new stock</string>
+</resources>
